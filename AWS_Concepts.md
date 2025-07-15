@@ -24,5 +24,8 @@
 * Lambda Function (Serverless on VM)
 
 
-IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIImportant concepts
-1. 
+Important concepts
+1. Rate limiting
+2. VPC Peering
+3. VPN Tunnel
+4. 
